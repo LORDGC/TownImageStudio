@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a74030-60bc-4f8f-b2f3-307332ec816b" name="Changes" comment="" />
+    <list default="true" id="52a74030-60bc-4f8f-b2f3-307332ec816b" name="Changes" comment="1 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LORDGC/TownImageStudio.git",
+    "accountId": "3f05f8ee-0785-44c2-a0a2-98bf26cb916e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -54,11 +60,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768148634247</updated>
-      <workItem from="1768148634478" duration="2233000" />
+      <workItem from="1768148634478" duration="2550000" />
     </task>
+    <task id="LOCAL-00001" summary="1 commit">
+      <option name="closed" value="true" />
+      <created>1768151985008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768151985008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
   </component>
 </project>
