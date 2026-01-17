@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a74030-60bc-4f8f-b2f3-307332ec816b" name="Changes" comment="3 commit">
-      <change afterPath="$PROJECT_DIR$/my-next-app/app/office/office-page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-next-app/app/projects/projects-page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-next-app/app/services/services-page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-next-app/app/contacts/contacts-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-next-app/app/contacts/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +82,7 @@
       <workItem from="1768405509317" duration="599000" />
       <workItem from="1768664026112" duration="1103000" />
       <workItem from="1768665882168" duration="3375000" />
-      <workItem from="1768686340081" duration="1414000" />
+      <workItem from="1768686340081" duration="2011000" />
     </task>
     <task id="LOCAL-00001" summary="1 commit">
       <option name="closed" value="true" />
@@ -126,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768154879814</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3 commit">
+      <option name="closed" value="true" />
+      <created>1768688071963</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768688071963</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
